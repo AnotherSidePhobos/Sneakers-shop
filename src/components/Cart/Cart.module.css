@@ -1,0 +1,10 @@
+.image__min{
+    max-width: 100px;
+}
+
+.table{
+    width: 1400px;
+}
+.table .tr{
+    border-collapse: collapse;
+}

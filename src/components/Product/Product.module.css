@@ -1,0 +1,22 @@
+.products_price,
+.products_title{
+    text-align: center;
+    margin: 10px 0px;
+}
+.products_title{
+    font-size: 30px;
+}
+
+.alreadyIn,
+.products_btn{
+    text-align: center;
+}
+
+.alreadyIn{
+    
+    max-width: 200px;
+    background-color: rgb(192, 161, 161);
+}
+.addbtn{
+    cursor: pointer;
+}
